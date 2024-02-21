@@ -1,12 +1,12 @@
 import BlogList from "./BlogList";
-import useFetch from "./useFetch";
+import UseFetch from "./UseFetch";
 
 const MyBlog = () => {
-    const blogs = useFetch("http://localhost:4000/blogs");
+    const {data} = UseFetch("http://localhost:4000/blogs");
 
     return (
         <div className="home">
-            {blogs &&<BlogList blogs={blogs}/>}
+            {data && <BlogList blogs= {data} title="All Blogs"/>}
         </div>
 
     );

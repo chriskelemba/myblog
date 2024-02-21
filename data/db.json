@@ -1,18 +1,6 @@
 {
   "blogs": [
     {
-      "id": "6",
-      "title": "Web Development",
-      "author": "Samson",
-      "body": "Contrary to popular belief, lorem"
-    },
-    {
-      "id": "7",
-      "title": "Java Programming",
-      "author": "Mary Doe",
-      "body": "there are many variations of passages of lorem"
-    },
-    {
       "id": "8",
       "title": "Dev ops Engineer",
       "author": "Edwin",
@@ -25,78 +13,10 @@
       "body": "Contrary to popular belief, lorem"
     },
     {
-      "id": "3555",
-      "title": "",
-      "author": "",
-      "body": "",
-      "": "u"
-    },
-    {
-      "id": "f90f",
-      "title": "",
-      "author": "",
-      "body": "",
-      "": "u"
-    },
-    {
-      "id": "ba3a",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "b436",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "5ba4",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "aa17",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
       "id": "cf5f",
       "title": "How to",
       "author": "Chris",
       "body": "askhfaiodsbfaodfy"
-    },
-    {
-      "id": "4de4",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "cfbc",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "ff72",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "f23d",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "006b",
-      "title": "Chris",
-      "author": "How to: Javascript",
-      "body": ""
     },
     {
       "id": "79c1",

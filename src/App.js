@@ -18,7 +18,7 @@ function App() {
           <Route path="/Form">
             <Form/>
           </Route>
-          <Route path="/BlogDetails/:id">
+          <Route path="/Blog-details/:id">
             <BlogDetails/>
           </Route>
         </Switch>

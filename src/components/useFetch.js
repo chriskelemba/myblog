@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const useFetch = (url) => {
-    const [blogs, setBlogs] = useState(null);
+const  UseFetch = (url) => {
+    const [data, setBlogs] = useState(null);
 
     useEffect (() => {
         axios.get(url)
@@ -11,7 +11,7 @@ const useFetch = (url) => {
         .catch(err => console.log(err))
     }, [url]);
 
-    return(blogs);
+    return {data};
 }
 
-export default useFetch;
+export default UseFetch;
